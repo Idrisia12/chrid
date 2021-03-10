@@ -33,7 +33,7 @@ export const homeObjThree = {
   topLine: 'FOUNDER And CEO',
   headline: 'IDRIS ABDULRASHEED',
   description:
-    "A self taught Web Developer. Also a 200Level Pharmacy Student at Ahmadu Bello University, Zaria with a vision to transform the world with Technology. Love learning new things day by day.",
+    "A self taught Web Developer and Designer with a vision to transform the world with Technology. Love learning new things day by day.",
   buttonLabel: 'Want to Talk?',
   imgStart: 'start',
   img: 'images/rashs.jpg',
