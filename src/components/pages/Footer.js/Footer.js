@@ -58,7 +58,7 @@ function Footer() {
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div>
-              <small className='website-rights'>CHRID © 2020</small>
+              <small className='website-rights'>CHRID © 2022</small>
           </div>
           <div className='social-icons'>
             <Link
